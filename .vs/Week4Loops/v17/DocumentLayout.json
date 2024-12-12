@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karol\\source\\repos\\Week4Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC2EDFF-48BB-4059-8A68-8AAEE5678432}|ForLoopSum\\ForLoopSum.csproj|c:\\users\\karol\\source\\repos\\week4loops\\forloopsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC2EDFF-48BB-4059-8A68-8AAEE5678432}|ForLoopSum\\ForLoopSum.csproj|solutionrelative:forloopsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8166EC5-6D5E-43E2-8525-0AAA486EBF3C}|Week4Loops\\Week4Loops.csproj|c:\\users\\karol\\source\\repos\\week4loops\\week4loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8166EC5-6D5E-43E2-8525-0AAA486EBF3C}|Week4Loops\\Week4Loops.csproj|solutionrelative:week4loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC0F389-903A-4E7D-8F34-17C4F0C83ED6}|WhileLoops\\WhileLoops.csproj|c:\\users\\karol\\source\\repos\\week4loops\\whileloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC0F389-903A-4E7D-8F34-17C4F0C83ED6}|WhileLoops\\WhileLoops.csproj|solutionrelative:whileloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB04988-F3E5-4DB4-B245-79F59FD921C6}|RandomNumber\\RandomNumber.csproj|c:\\users\\karol\\source\\repos\\week4loops\\randomnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB04988-F3E5-4DB4-B245-79F59FD921C6}|RandomNumber\\RandomNumber.csproj|solutionrelative:randomnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Week4Loops\\WhileLoops\\Program.cs",
+              "RelativeDocumentMoniker": "WhileLoops\\Program.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Week4Loops\\WhileLoops\\Program.cs",
+              "RelativeToolTip": "WhileLoops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:11:26.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Week4Loops\\RandomNumber\\Program.cs",
+              "RelativeDocumentMoniker": "RandomNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Week4Loops\\RandomNumber\\Program.cs",
+              "RelativeToolTip": "RandomNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:59:30.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Week4Loops\\ForLoopSum\\Program.cs",
+              "RelativeDocumentMoniker": "ForLoopSum\\Program.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Week4Loops\\ForLoopSum\\Program.cs",
+              "RelativeToolTip": "ForLoopSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:43:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Week4Loops\\Week4Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Week4Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Week4Loops\\Week4Loops\\Program.cs",
+              "RelativeToolTip": "Week4Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:46:08.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
